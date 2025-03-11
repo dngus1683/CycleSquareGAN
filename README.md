@@ -7,7 +7,7 @@
 1. [프로젝트 개요](#프로젝트-개요)
 2. [연구의 필요성](#연구의-필요성)
 3. [프로젝트 소개](#프로젝트-소개)
-4. [기능 소개](#기능-소개)
+4. [논문](#논문)
 
 
 ## 프로젝트 개요
@@ -45,7 +45,7 @@
 
 
 
-## 기능 소개
+## 논문
 ![Image](https://github.com/user-attachments/assets/06aeceae-e48e-4257-82eb-92dcab4a0c7d)
 
 ![Image](https://github.com/user-attachments/assets/e4be310a-16f1-4761-8c70-6641ce8fdb49)
